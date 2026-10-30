@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://overtonefoundry.com">
+    <img src="assets/overtone-matrix.gif" width="720" alt="Green phosphor code rain resolving into the Overtone Foundry logo. Click to visit overtonefoundry.com">
+  </a>
+</p>
+
 # Jeremy Mooer · [Overtone Foundry](https://overtonefoundry.com)
 
 **Practical AI systems for people who want the power without the nonsense.**
@@ -5,8 +11,8 @@ Staff engineer in Fort Collins, CO. I build local-first macOS tools: your data s
 
 | | Project | What it does |
 |---|---|---|
-| 🧪 | [**Stillroom**](https://github.com/jeremym/stillroom) | Describe a goal, get the result. Reusable AI "recipes" run on local models, and you can open the graph to see how it was made. |
-| 🔊 | [**Speech Hub**](https://github.com/jeremym/speech-hub) | Highlight text, press ⌥⎋, hear it in a natural neural voice. Runs fully on-device, with a `speak` CLI and socket API. |
+| 🧪 | [**Stillroom**](https://github.com/jeremym/stillroom) | **AI orchestration for beginners.** Describe a goal, get the result. Reusable AI "recipes" run on local models, and you can open the graph to see how it was made. |
+| 🔊 | [**Speech Hub**](https://github.com/jeremym/speech-hub) | **A replacement for macOS Speak Selection.** Highlight text, press ⌥⎋, hear it in a natural neural voice. Runs fully on-device, with a `speak` CLI and socket API. |
 | 🔐 | [**ClipySecure**](https://github.com/jeremym/clipy-secure) | Privacy-first clipboard manager. History is AES-GCM encrypted on disk. `brew install --cask jeremym/tap/clipy-secure` |
 | ✉️ | [**Mailto Segue**](https://github.com/jeremym/mailto-segue) | Every `mailto:` link goes where you want it: the right Gmail account, browser profile, or mail app. |
 
